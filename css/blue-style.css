@@ -1,0 +1,157 @@
+.nav_holder nav li a,
+.top_line_links_list li a,
+.nav_holder nav li ul li a:hover,
+.stock_section .stock_content>span,
+.btn_holder a,
+.btn_holder.reverse a:hover,
+.cottage_list li:hover .cottage_main_info span.cotage_price,
+.cottage_list .cottage_main_info span.cotage_price,
+.slider_list li.active a,
+.lang_list li,
+.lang_list li a:hover,
+.aside_menu_holder li a,
+.attention_block time,
+.feedback_form .submit_holder input[type="submit"],
+.routes_list li span,
+.cottage_price span,
+.cottage_add_info a,
+.nav_holder.fixed .top_line_links_list li a,
+.news_list li .news_preview_text a,
+.prev_next_article li .way_link,
+.adinfo_table_holder table tbody td.active,
+.online_store a:hover,
+footer .online_store a,
+.nav_footer li a,
+.add_footer_links a,
+.create_site li a,
+.nav_holder.fixed nav li a:hover,
+.nav_holder.fixed nav li.nav_dropdown:hover>a,
+.reviews_holder li .title_review,
+.nav_holder nav>ul li:hover>a,
+.nav_holder nav li.nav_dropdown.active>a,
+.nav_holder nav li.nav_dropdown:hover>a,
+.popup_holder h3,
+.popup_content form input[type="submit"],
+.additional_inner_nav li a{
+	color: #32a1d6;
+}
+.copyright,
+.create_site li{
+	color: #537685;
+}
+.reservation_links_holder>a,
+.logo_text .title_line,
+.section_title h2:before,
+.section_title h2:after,
+.nav_holder nav li ul:before,
+.btn_holder a:hover,
+.stock_section .stock_content .stock_date span:before,
+.btn_holder.reverse a,
+.slider_list li p:before,
+.slider_list li.active p:before,
+.aside_menu_holder li a:before,
+.attention_header,
+.form_title,
+.reservation_form input[type="submit"]:hover,
+.feedback_form .submit_holder input[type="submit"]:hover,
+.cottage_price span i:before,
+.cottage_characteristic_list>li:before,
+.entertainment_list li .entertainment_title:before,
+.entertainment_list li .visual span b,
+.gallary_lists>li .gallary_img_list li.gallary_more_less_btn:after,
+.gallary_lists>li .gallary_img_list li.gallary_more_less_btn:before,
+.our_products_img_list span:before,
+.price_holder li:before,
+.price_tables table thead,
+.reservation_links_holder>a:before,
+.cottage_list li:hover .btn_holder a:hover,
+.popup_content form input[type="submit"]:hover,
+.popup .close_popup:after,
+.popup .close_popup:before{
+	background: #32a1d6;
+}
+.price_table_holder table thead th:before,
+.price_table_holder table thead th.left_border:after,
+.adinfo_table_holder table thead th:before{
+	background: #36abe3;
+}
+.logo_text .title_line:before,
+.logo_text .title_line.right:before,
+.nav_holder nav li.nav_dropdown>a:before,
+.btn_holder a,
+.btn_holder.reverse.arrow a:hover:before,
+.section_title_text:before,
+.section_title_text:after,
+.attention_header:before,
+.attention_header,
+.reservation_form label.correct input,
+.feedback_form .submit_holder input[type="submit"],
+.fs-dropdown-selected:before,
+.feedback_form,
+.cottage_add_info a:before,
+.cottage_price,
+.cottage_addinfo_holder,
+.entertainment_list li .visual span b,
+.news_list li,
+.gallary_lists>li,
+.gallary_lists>li .gallary_img_list li.gallary_more_less_btn,
+.prev_next_article li .way_link:before,
+.prev_next_article li:last-child .way_link:before,
+.price_holder ul,
+.price_tables h3,
+.price_tables table,
+.price_tables>ul div,
+.price_table_holder table tbody td:first-child:before,
+.adinfo_table_holder table tbody td:first-child:before,
+.cottage_img_carousel_nav li.current span:before,
+.slider_list li.active a:after,
+.gallary_lists>li:last-child,
+.reviews_holder li,
+.nav_holder.fixed nav li.nav_dropdown>a:before,
+.nav_holder.fixed nav li.nav_dropdown:hover>a:before,
+.popup_content form input[type="submit"],
+.popup{
+	border-color: #32a1d6;
+}
+.svg path,
+.svg polygon{
+	fill: #32a1d6;
+}
+.footer_logo.svg path{
+	fill: #537685;
+}
+.nav_holder nav li a:hover,
+.nav_holder nav li.nav_dropdown:hover>a{
+	background: rgba(51, 172, 217, 0.1);
+}
+
+.reservation_form input[type="submit"]:hover,
+.feedback_form .submit_holder input[type="submit"]:hover{
+	color: #fff;
+}
+
+footer{
+	background: url(../images/winter/footer-bg.jpg) center bottom no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+.attention_content{
+	-webkit-box-shadow: 0px 30px 10px -8px rgba(85, 179, 211, 0.2);
+	-moz-box-shadow:    0px 30px 10px -8px rgba(85, 179, 211, 0.2);
+	box-shadow:         0px 30px 10px -8px rgba(85, 179, 211, 0.2);
+}
+.entertainment_list li a:hover .visual{
+	-webkit-box-shadow: 0px 25px 25px -10px rgba(85, 179, 211, 0.2);
+	-moz-box-shadow:    0px 25px 25px -10px rgba(85, 179, 211, 0.2);
+	box-shadow:         0px 25px 25px -10px rgba(85, 179, 211, 0.2);
+}
+.reservation_form .input_holder.input_date:before{
+	background: url(../images/winter/icon-12.png) center bottom no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+@media screen and (max-width: 701px){
+	.price_table_holder table tbody td.active,{
+		color: #32a1d6;
+	}
+}
